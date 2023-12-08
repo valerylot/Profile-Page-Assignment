@@ -67,6 +67,7 @@ h1, ul, button{
     /* display: flex; */
     height: 600px;
     width: 600px;
+    margin-bottom: 37px;
 }
 .user{
     /* background-color:springgreen; */
