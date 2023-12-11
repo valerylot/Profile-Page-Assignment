@@ -43,6 +43,10 @@ h1, ul, button{
     /* justify-content: space-evenly; */
     /* align-items: left; */
 }
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
 .signout-btn{
     background-color: #1AA2B8;
     height: 35px;
